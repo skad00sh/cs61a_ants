@@ -10,6 +10,6 @@ This assignment is based on Opbject Oriented programming in Python.
 
  ## Project Status: _Incomplete_
   
-**Note:** Problem 1 to Problem 5 is completed. Problem 6 to 9 still pending. 
+**Note:** Problem 1 to Problem 5 is completed. Problem 6 to 9 is still pending. 
 
 I am no longer maintaining this repo. 
